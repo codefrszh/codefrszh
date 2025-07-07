@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Victor but you can call me Frszh, this profile is on development. <br><br>- 🔭 I’m working as Production Operator<br>- 📚 I'm currently learning stargazing<br>- ⚡ In my free time I make music.</p>
+<p align="left">I'm Victor but you can call me Frszh, this profile is on development. <br><br>- 🔭 I’m working as Production Operator at a pharmaceutical facility<br>- 📚 I'm currently learning stargazing<br>- ⚡ In my free time I make music.</p>
 
 
 
